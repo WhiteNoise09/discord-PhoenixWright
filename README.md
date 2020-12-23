@@ -43,7 +43,6 @@ Un juge quoi.
 ## Phases :
 ### Préliminaires
 Le juge pose *quelques* questions à l'accusation (comme il veut, genre "quelle est l'arme du crime ?") et lui demande d'appeler un premier témoin quand il a fini de l'interroger.
-Ces questions sont (normalement) dans le but de rajouter des pièces à convictions dans le dossier de l'affaire, mais en soit c'est un peu comme le veut le juge.
 
 ### Appel à la barre de quelqu'un (l'accusé ou un témoin, mais autant appeler l'accusé en premier pour explorer toutes les pistes, car l'appeler à la fin c'est ... pas ouf.)
 
